@@ -1,5 +1,3 @@
-using Ardalis.Result;
-
 namespace Aigamo.Extensions.ErrorHandling.ArdalisResult.Extensions;
 
 internal static class ResultStatusExtensions
